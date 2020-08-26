@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/Chapter 04 Simple Factory/sample01/Client.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Chapter 04 Simple Factory/sample01/Client.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Chapter 04 Simple Factory/sample01/HaierTV.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Chapter 04 Simple Factory/sample01/HaierTV.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Chapter 04 Simple Factory/sample01/HisenseTV.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Chapter 04 Simple Factory/sample01/HisenseTV.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Chapter 04 Simple Factory/sample01/TV.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Chapter 04 Simple Factory/sample01/TV.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Chapter 04 Simple Factory/sample01/TVFactory.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Chapter 04 Simple Factory/sample01/TVFactory.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Chapter 04 Simple Factory/sample01/XMLUtilTV.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Chapter 04 Simple Factory/sample01/XMLUtilTV.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Chapter 04 Simple Factory/sample01/configTV.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Chapter 04 Simple Factory/sample01/configTV.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Chapter 04 Simple Factory/sample02/Administrator.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Chapter 04 Simple Factory/sample02/Administrator.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Chapter 04 Simple Factory/sample02/Client.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Chapter 04 Simple Factory/sample02/Client.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Chapter 04 Simple Factory/sample02/Employee.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Chapter 04 Simple Factory/sample02/Employee.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Chapter 04 Simple Factory/sample02/Manager.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Chapter 04 Simple Factory/sample02/Manager.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Chapter 04 Simple Factory/sample02/User.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Chapter 04 Simple Factory/sample02/User.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Chapter 04 Simple Factory/sample02/UserDAO.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Chapter 04 Simple Factory/sample02/UserDAO.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Chapter 04 Simple Factory/sample02/UserFactory.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Chapter 04 Simple Factory/sample02/UserFactory.java" charset="GBK" />
+  </component>
+</project>
